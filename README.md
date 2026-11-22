@@ -9,7 +9,7 @@
 [![npm](https://img.shields.io/badge/npm-yariinfotech--mcp-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/yariinfotech-mcp)
 [![Skills.sh](https://img.shields.io/badge/Skills-yari--skills-000000?style=flat)](https://skills.sh/yari-infotech/yari-skills)
 
----
+----
 
 ## 🏛 Strategic Pillars
 
